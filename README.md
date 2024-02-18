@@ -11,6 +11,10 @@ Food loss and waste is a contributor to Greenhouse Gas Emissions. Our team and I
 The project was made using angular 17 and Bootstrap. It has the landing page for the app 'Waste Watchers'. It was deployed on netlify and the site is live on https://earth-savior.netlify.app/. 
 It's usable on mobile devices only.
 
+## Target audience
+
+The app will be used in universities for college students and staff
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
