@@ -1,6 +1,19 @@
-# Untitled
+# App name : Waste Watcher
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+
+## What does the app do
+
+Food loss and waste is a contributor to Greenhouse Gas Emissions. Our team and I brainstormed ways to allow university students to have information on the waste they produce on a daily basis, and encourage them to reduce it. We plan on including Image classification through CNN algorithm and transfer learning model to categorize the type of waste. We looked at various data sets relating to different types of waste (including of food, plastic, paper waste) and correlated the various carbon footprints associated with each of them. Based on this, we assigned scores for the user to understand their daily progress. We provide incentives to the users if they their sustainability role, they will be given points which can be redeemed at university stores.
+
+## Tools and Technologies used
+
+The project was made using angular 17 and Bootstrap. It has the landing page for the app 'Waste Watchers'. It was deployed on netlify and the site is live on https://earth-savior.netlify.app/. 
+It's usable on mobile devices only.
+
+## Target audience
+
+The app will be used in universities for college students and staff
 
 ## Development server
 
@@ -13,14 +26,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
